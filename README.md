@@ -52,7 +52,11 @@
 <a href="https://github.com/chikkic?tab=followers"><img src="https://img.shields.io/github/followers/chikkic?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ---
-  ![](./profile-3d-contrib/profile-night-green.svg)
+
   
  [linkedin]:[https://www.linkedin.com/in/chitrakshi-chhabra-787270229/]
  [gmail]: [chitrakshi.chhabra2020@gmail.com]
+  
+  
+  
+  ![](./profile-3d-contrib/profile-night-green.svg)
