@@ -53,5 +53,5 @@
 
 ---
   
- [linkedin]: [https://www.linkedin.com/in/kumar-shanu-011423189/](https://www.linkedin.com/in/chitrakshi-chhabra-787270229/)
+ [linkedin]:[https://www.linkedin.com/in/chitrakshi-chhabra-787270229/]
  [gmail]: [chitrakshi.chhabra2020@gmail.com]
